@@ -1,3 +1,4 @@
 lorem ipsum lorem ipsum 
 
 This is a new paragraph edit while the other work is stashed.
+apply stash on this file
