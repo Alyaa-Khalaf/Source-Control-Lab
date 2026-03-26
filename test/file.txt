@@ -1,5 +1,6 @@
 lorem ipsum lorem ipsum
 
+test branch says: Hello!
 This is a new paragraph edit while the other work is stashed.
 apply stash on this file
  HEAD
