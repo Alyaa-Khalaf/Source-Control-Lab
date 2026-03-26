@@ -5,3 +5,5 @@ apply stash on this file
  HEAD
 
 ffffffffffffffff
+
+stash line here
