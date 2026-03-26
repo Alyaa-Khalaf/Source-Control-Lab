@@ -1,4 +1,14 @@
+ v0-fix
+edit
+
 lorem ipsum lorem ipsum 
+
+ new-branch
+fffffffffffffffff
+
+new branch work
 
 This is a new paragraph edit while the other work is stashed.
 apply stash on this file
+ main
+ main
